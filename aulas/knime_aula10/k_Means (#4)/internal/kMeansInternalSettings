@@ -4,30 +4,30 @@
     <entry key="ignoredColumns" type="xint" value="1"/>
     <config key="clusterCoverage">
         <entry key="array-size" type="xint" value="3"/>
-        <entry key="0" type="xint" value="30"/>
-        <entry key="1" type="xint" value="40"/>
-        <entry key="2" type="xint" value="20"/>
+        <entry key="0" type="xint" value="33"/>
+        <entry key="1" type="xint" value="36"/>
+        <entry key="2" type="xint" value="21"/>
     </config>
     <config key="kMeansCluster0">
         <entry key="array-size" type="xint" value="4"/>
-        <entry key="0" type="xdouble" value="4.946666666666667"/>
-        <entry key="1" type="xdouble" value="3.3800000000000003"/>
-        <entry key="2" type="xdouble" value="1.433333333333333"/>
-        <entry key="3" type="xdouble" value="0.2266666666666667"/>
+        <entry key="0" type="xdouble" value="5.057575757575758"/>
+        <entry key="1" type="xdouble" value="3.460606060606061"/>
+        <entry key="2" type="xdouble" value="1.4787878787878788"/>
+        <entry key="3" type="xdouble" value="0.26060606060606056"/>
     </config>
     <config key="kMeansCluster1">
         <entry key="array-size" type="xint" value="4"/>
-        <entry key="0" type="xdouble" value="5.9725"/>
-        <entry key="1" type="xdouble" value="2.7499999999999996"/>
-        <entry key="2" type="xdouble" value="4.51"/>
-        <entry key="3" type="xdouble" value="1.4824999999999995"/>
+        <entry key="0" type="xdouble" value="5.9222222222222225"/>
+        <entry key="1" type="xdouble" value="2.7249999999999996"/>
+        <entry key="2" type="xdouble" value="4.452777777777778"/>
+        <entry key="3" type="xdouble" value="1.4749999999999996"/>
     </config>
     <config key="kMeansCluster2">
         <entry key="array-size" type="xint" value="4"/>
-        <entry key="0" type="xdouble" value="6.915000000000001"/>
-        <entry key="1" type="xdouble" value="3.12"/>
-        <entry key="2" type="xdouble" value="5.9"/>
-        <entry key="3" type="xdouble" value="2.1499999999999995"/>
+        <entry key="0" type="xdouble" value="6.861904761904763"/>
+        <entry key="1" type="xdouble" value="3.114285714285714"/>
+        <entry key="2" type="xdouble" value="5.69047619047619"/>
+        <entry key="3" type="xdouble" value="2.133333333333333"/>
     </config>
     <config key="FeatureNames">
         <entry key="array-size" type="xint" value="5"/>

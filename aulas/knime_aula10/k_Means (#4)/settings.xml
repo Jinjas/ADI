@@ -20,7 +20,7 @@
             <entry key="SettingsModelID" type="xstring" value="SMN_long_seed"/>
             <entry key="EnabledStatus" type="xboolean" value="true"/>
         </config>
-        <entry key="centroid_seeds" type="xlong" value="6307005935421828063"/>
+        <entry key="centroid_seeds" type="xlong" value="0"/>
         <entry key="centroid_seeds_BOOL" type="xboolean" value="true"/>
         <config key="maxNrIterations_Internals">
             <entry key="SettingsModelID" type="xstring" value="SMID_integer"/>
@@ -93,6 +93,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="1cc4ffbb-440e-446f-ba76-0cc60da23406"/>
+        <entry key="file_store_id" type="xstring" value="9682dd80-3654-49e0-8dd1-cb388bea8e2b"/>
     </config>
 </config>
